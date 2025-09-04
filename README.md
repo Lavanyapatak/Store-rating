@@ -1,1 +1,1 @@
-# Store-rating
+# storerating
